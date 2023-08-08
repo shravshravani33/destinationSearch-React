@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.each-item-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+
+.img-decor {
+  height: 100px;
+  width: 50px;
+  margin: 20px;
+}
